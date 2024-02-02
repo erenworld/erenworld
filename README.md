@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eren</h1>
+<h2>I'm Eren, a software engineering student and writer.</h2>
 
 - 👋 Hi, I’m @erenworld
 - 👀 I’m interested in ...
