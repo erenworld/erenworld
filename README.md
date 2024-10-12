@@ -1,4 +1,4 @@
-<h2>I'm Eren, a Design Engineer.</h2>
+<h2>I'm Eren, a person who solves problems with code.</h2>
 
 <ul>
   <li><a href="https://twitter.com/erentrkg" alt="x">X</a></li>
