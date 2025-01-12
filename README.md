@@ -1,25 +1,25 @@
 ## About me
 
 
-Born in France, Central Asian roots. Heart of the Middle East. Balkan habits. Mediterranean spirit.
+- Born in France, Central Asian roots. Heart of the Middle East. Balkan habits. Mediterranean spirit.
 <br/>
-I speak English, French, Turkish, and Bulgarian.
+- I speak English, French, Turkish, and Bulgarian.
 <br/>
-I read a lot.
+- I read a lot.
 <br/>
-I lift weights.
+- I lift weights.
 <br/>
-I chase knowledge everyday.
+- I chase knowledge everyday.
 <br/>
-Curious about the world and constantly learning from it.
+- Curious about the world and constantly learning from it.
 <br/>
-I explore new ideas, cultures, and opportunities wherever they may arise.
+- I explore new ideas, cultures, and opportunities wherever they may arise.
 <br/>
-In everything I do, I aim to grow.
+- In everything I do, I aim to grow.
 <br/>
 "Play long-term games with long-term people."
 — Naval Ravikant
 
 ## Technical skills
-I have a deep passion for Python, and I’m comfortable working with JavaScript when needed. However, my true focus lies in backend engineering, where I enjoy solving complex problems and optimizing systems.
-I’m currently studying at EPITECH, where I have the opportunity to work on a variety of challenging and hands-on projects, constantly learning and growing as a developer.
+- I have a deep passion for Python, and I’m comfortable working with JavaScript when needed. However, my true focus lies in backend engineering, where - I enjoy solving complex problems and optimizing systems.
+- I’m currently studying at EPITECH, where I have the opportunity to work on a variety of challenging and hands-on projects, constantly learning and growing as a developer.
