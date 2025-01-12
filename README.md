@@ -1,19 +1,12 @@
 ## About me
 
 * Born in France, Central Asian roots. Heart of the Middle East. Balkan habits. Mediterranean spirit.
-<br/>
 * I speak English, French, Turkish, and Bulgarian.
-<br/>
 * I read a lot.
-<br/>
 * I lift weights.
-<br/>
 * I chase knowledge everyday.
-<br/>
 * Curious about the world and constantly learning from it.
-<br/>
 * I explore new ideas, cultures, and opportunities wherever they may arise.
-<br/>
 * In everything I do, I aim to grow.
 <br/>
 
