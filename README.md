@@ -2,6 +2,7 @@
 
 
 Born in France, Central Asian roots. Heart of the Middle East. Balkan habits. Mediterranean spirit.
+<br/>
 I speak English, French, Turkish, and Bulgarian.
 I read a lot.
 I lift weights.
