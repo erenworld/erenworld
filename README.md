@@ -4,7 +4,7 @@
 * I speak English, French, Turkish, and Bulgarian.
 * I read a lot.
 * I lift weights.
-* I chase knowledge everyday.
+* I code everyday minimum 1 hour.
   
 ## Technical skills
 * I have a deep passion for Python, and I'm comfortable working with JavaScript when needed. However, my true focus lies in backend engineering, where * I enjoy solving complex problems and optimizing systems.
