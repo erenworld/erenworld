@@ -3,6 +3,7 @@
 * Born in France, Central Asian roots. Heart of the Middle East. Balkan habits. Mediterranean spirit.
 * I speak English, French, Turkish, and Bulgarian.
 * I read a lot.
+* I can learn anything.
 * I lift weights.
 * I code everyday minimum 1 hour.
   
