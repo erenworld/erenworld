@@ -12,6 +12,4 @@
 * I’m currently studying at EPITECH, where I have the opportunity to work on a variety of challenging and hands-on projects, constantly learning and growing as a developer.
 
 ## Now
-* Currently building a hashtable library in C.
-* Developing a Chrome extension to help people reduce feed distractions.
 * Actively looking for an internship as a backend engineer.
