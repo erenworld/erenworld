@@ -11,4 +11,4 @@
 * Currently, I'm studying at EPITECH, where I have the opportunity to work on various challenging, hands-on projects—constantly learning and growing as a developer.
 
 ## Now
-* Actively looking for an internship as a backend engineer.
+* Actively looking for an internship as a backend developer.
