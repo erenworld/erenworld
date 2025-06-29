@@ -9,7 +9,7 @@ The one your business has been craving for for years?
 I'm the man you need.
 
 
-I'm an expert Typescript (Node) backend developer.
+I'm an expert Javascript/Typescript (Node) backend developer.
 
 My experience with the Javascript ecosystem: 
 - Over 2 years of professional experience.
