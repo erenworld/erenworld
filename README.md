@@ -19,23 +19,14 @@ My experience with the Javascript ecosystem:
 
 ## Projects
 
-- **React from Scratch**  
-  Build a React-like library to understand the core concepts of React.
-
-- **Nodemon from Scratch**  
-  Re-implementation of the Nodemon tool to deepen understanding of file watchers and server reload mechanisms.
-- **Toy Database (like SQLite)**  
-  Simple database engine built from scratch to grasp how SQL engines parse and store data.
-- **ESLint Plugin for React Developers**  
-  Custom ESLint rule to discourage misuse of the `useEffect` hook in React.
-- **Translation of React Philosophies by Mithi**  
-  French translation of [Mithi’s React Philosophies](https://github.com/mithi/react-philosophies) to make them accessible to a broader audience.
-- **Sonic.js (NPM Package)**  
-  Analyzes how quickly pages load across devices and browsers to identify performance bottlenecks.
-- **Shell from Scratch**  
-  Unix shell clone implementing basic command parsing and execution, including pipes and redirections.
-- **Chrome Extension – Social Media Noise Eradicator**  
-  Replaces your entire news feed with inspirational quotes to reduce distractions.
+- React from scratch: tiny library to understand the core concepts of React.
+- Nodemon from scratch: re-implementation of the Nodemon tool to understanding of file watchers and server reload mechanisms.
+- Toy Database (like SQLite): db engine built from scratch to grasp how SQLite engines parse and store data.
+- ESLint Plugin for React Developers: custom ESLint rule to discourage misuse of the `useEffect` hook in React.
+- Translation of React Philosophies by Mithi: french translation of [Mithi’s React Philosophies](https://github.com/mithi/react-philosophies)
+- Sonic.js (npm package): analyzes how quickly pages load across devices and browsers to identify performance bottlenecks.
+- Shell from scratch: unix shell clone implementing basic command parsing and execution, including pipes and redirections.
+- Chrome extension: Social Media Noise Eradicator
 
 I can help you with : 
 - Developing reliable, scalable and bug-free backend applications
