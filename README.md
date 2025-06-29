@@ -1,7 +1,7 @@
 ## Eren Türkoğlu
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenworld&margin-w=15
-" alt="erenworld" /></a> </p>](https://github-profile-trophy.vercel.app/?username=erenworld&theme=light)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenworld" alt="erenworld" /></a> </p>
+
 
 Want to create the app of your dreams? 
 
