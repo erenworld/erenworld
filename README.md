@@ -17,7 +17,7 @@ My experience with the Javascript ecosystem:
 - 3 years of learning (since 2022)
 - 10,000+ hours of practice
 
-## Projects
+##### Projects
 
 - React from scratch: tiny library to understand the core concepts of React.
 - Nodemon from scratch: nodemon clone to learn file watchers and reloads.
@@ -28,7 +28,7 @@ My experience with the Javascript ecosystem:
 - Shell from scratch: unix shell clone implementing basic command parsing and execution, including pipes and redirections.
 - Chrome extension: social media noise eradicator
 
-I can help you with : 
+##### I can help you with : 
 - Developing reliable, scalable and bug-free backend applications
 - Designing software that is sustainable, reliable and profitable over the long term
 - Maintaining existing code to ensure your company's security.
