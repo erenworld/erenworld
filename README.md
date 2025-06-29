@@ -13,7 +13,7 @@ I'm the man you need.
 I'm an expert Javascript/Typescript (Node) backend developer.
 
 ##### My experience with the Javascript ecosystem: 
-- Over 2 years of experience.
+- Over 3 years of experience.
 - 3 years of learning (since 2022)
 - 10,000+ hours of practice
 
