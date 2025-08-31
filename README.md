@@ -11,6 +11,4 @@
   <b>previously:</b>
   <br>
     computer science student at Epitech
-  <br></br>
-  <br></br>
 </samp>
