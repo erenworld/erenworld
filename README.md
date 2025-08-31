@@ -10,7 +10,7 @@
   <br></br>
   <b>previously:</b>
   <br>
-    computer science student @ [epitech]([https://uwaterloo.ca/future-students/programs/software-engineering)](https://www.epitech.eu/)
+    computer science student at Epitech
   <br></br>
   ![stars divider](/dividerstars.gif)
   <br>
