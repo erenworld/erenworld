@@ -1,5 +1,3 @@
-
-<br>
 <samp>Eren</samp>
 <samp>
 <br>
