@@ -8,4 +8,9 @@ Product-focused software engineer at Kolizeo.
 <b>previously:</b>
 <br>
 computer science student at Epitech
+<br></br>
+<b>projects:</b>
+<li><b><a href="https://github.com/erenworld/chalk">Chalk color golang package</a></b></li>
+<li><b><a href="https://github.com/erenworld/godemon">Nodemon for golang</a></b></li>
+
 </samp>
