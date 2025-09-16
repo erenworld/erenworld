@@ -17,7 +17,7 @@ Computer Science student at Epitech.
   <li><b><a href="https://github.com/erenworld/toy-database">Toy Database</a></b> – SQLite-like implementation in C</li>
   <li><b><a href="https://github.com/erenworld/shell">Shell</a></b> – Custom command-line shell</li>
   <li><b><a href="https://github.com/erenworld/teknetwork">Teknetwork</a></b> – Webring project</li>
-  <li><b><a href="https://github.com/erenworld/nodemon">Nodemon</a></b> – Node.js reimplementation</li>
+  <li><b><a href="https://github.com/erenworld/nodemon">Nodemon</a></b> – Nodemon reimplementation</li>
   <li><b><a href="https://github.com/erenworld/googleauth">GoogleAuth</a></b> – Node.js & MongoDB authentication template</li>
   <li><b><a href="https://github.com/erenworld/sonic.js">Sonic.js</a></b> – NPM package analyzing page load speed across devices/browsers</li>
   <li><b><a href="https://github.com/erenworld/removedistraction">RemoveDistraction</a></b> – Chrome extension to block distracting content</li>
