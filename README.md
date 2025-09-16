@@ -1,16 +1,13 @@
 <samp>Eren</samp>
 <br>
-
 <b>Currently:</b>
 <br>
 Product-focused Software Engineer at Kolizeo.
-<br><br>
-
+<br>
 <b>Previously:</b>
 <br>
 Computer Science student at Epitech.
-<br><br>
-
+<br>
 <b>Projects:</b>
 <ul>
   <li><b><a href="https://github.com/erenworld/chalk">Chalk</a></b> – Golang package for color formatting</li>
