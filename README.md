@@ -7,5 +7,4 @@ Product-focused Software Engineer at Kolizeo.
 <b>Previously:</b>
 <br>
 Computer Science student at Epitech.
-<br><br>
 
