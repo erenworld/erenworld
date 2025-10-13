@@ -1,4 +1,4 @@
-I love trees, databases, performance and golang.
+I like trees, databases, performance and golang.
 ```
                                                                                 ## #
                          ^                             ^                       # #                      
