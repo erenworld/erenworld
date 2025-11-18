@@ -2,26 +2,14 @@ I like trees, databases, compilers, performance and golang.
 
 I like to build things.
 
-- **Elastic** — A lightweight orchestrator built on top of the Docker API.  
-  https://github.com/erenworld/elastic
+- **[Elastic](https://github.com/erenworld/elastic)** — A lightweight orchestrator built on top of the Docker API.
+- **[Chalk](https://github.com/erenworld/chalk)** — A Go package for styling and coloring terminal output.
+- **[Karp](https://github.com/erenworld/karp)** — An interpreter for the Karp programming language.
+- **[Persia](https://github.com/erenworld/persia)** — A from-scratch reimplementation of a React-like framework for understanding how UI frameworks work internally.
+- **[FocusGopher](https://github.com/erenworld/focusgopher)** — A CLI tool designed to block online distractions and boost productivity.
+- **[Shelly](https://github.com/erenworld/shelly)** — A smart, user-friendly command-line shell for Linux, macOS, and other Unix-like systems.
+- **[TekNetwork](https://teknetwork.vercel.app)** — A community webring for Epitech students, inspired by se-webring.xyz.
 
-- **Chalk** — A Go package for styling and coloring terminal output.  
-  https://github.com/erenworld/chalk
-
-- **Karp** — An interpreter for the Karp programming language.  
-  https://github.com/erenworld/karp
-
-- **Persia** — A from-scratch reimplementation of a React-like framework for understanding how UI frameworks work internally.  
-  https://github.com/erenworld/persia
-
-- **FocusGopher** — A CLI tool designed to block online distractions and boost productivity.  
-  https://github.com/erenworld/focusgopher
-
-- **Shelly** — A smart, user-friendly command-line shell for Linux, macOS, and other Unix-like systems.  
-  https://github.com/erenworld/shelly
-
-- **TekNetwork** — A community webring for Epitech students, inspired by se-webring.xyz.  
-  https://teknetwork.vercel.app
 
 ```
                                                                                 ## #
