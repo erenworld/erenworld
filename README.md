@@ -2,7 +2,7 @@ I like trees, databases, compilers, performance and golang.
 
 I like to build things.
 
-- **[Elastic](https://github.com/erenworld/elastic)** — A lightweight orchestrator built on top of the Docker API.
+- **[Elastic](https://github.com/erenworld/elastic)** — A lightweight orchestrator built on top of the Docker API. (current)
 - **[Chalk](https://github.com/erenworld/chalk)** — A Go package for styling and coloring terminal output.
 - **[Karp](https://github.com/erenworld/karp)** — An interpreter for the Karp programming language.
 - **[Persia](https://github.com/erenworld/persia)** — A from-scratch reimplementation of a React-like framework for understanding how UI frameworks work internally.
