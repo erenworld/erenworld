@@ -1,4 +1,3 @@
-I like trees, databases, compilers, performance and golang.
 
 ```
                                                                                 ## #
