@@ -1,6 +1,10 @@
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/erenworkd)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/eren.turkogllu) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erenturkoglu/)
+<p align="center">
+  <a href="https://erenkad.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@erenerenworld" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/intent/follow?screen_name=erentrkg&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/erenturkoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/erenworld" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ## Hi there, I'm Eren 👋
 
