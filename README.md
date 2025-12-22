@@ -10,7 +10,7 @@
 
 I'm a performance engineer, focusing on making the web faster. Like my work? [Consider hiring me.](https://erenkad.com/)
 
-Previously, I was the first engineer at [Kolizeo](https://kolizeo.vercel.app), helping to deliver a Linktree-style platform for some of the biggest clubs in France, used by tens of thousands of spectators.
+Previously, I was the first engineer at [Kolizeo](https://kolizeo.vercel.app), helping to deliver a Linktree-style platform for some of the biggest clubs in France, used by thousands of spectators.
 
 You can find my website over [here](https://erenkad.com) and I'm active on [X](https://x.com/erentrkg)
 
