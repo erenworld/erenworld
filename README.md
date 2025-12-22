@@ -6,7 +6,7 @@
   <a href="https://github.com/sponsors/erenworld" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-## Hi there, I'm Eren 👋
+## Hi there, I'm Eren 
 
 I'm a performance engineer, focusing on making the web faster. Like my work? [Consider hiring me.](https://erenkad.com/)
 
