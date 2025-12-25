@@ -13,6 +13,10 @@ Previously, I was the first engineer at [Kolizeo](https://kolizeo.vercel.app), h
 
 You can find my website over [here](https://erenkad.com) and I'm active on [X](https://x.com/erentrkg)
 
+I occasionally write about engineering, careers, and networking:
+* [How to get hired as a software engineer](https://erenkad.com/get-hired)
+* [How to grow a network from scratch](https://erenkad.com/grow-network)
+
 I am generally pretty responsive to issues, pull requests and comments. If you feel like I've missed something, tag my GitHub account into a comment.
 
 You can sponsor my work by donating via:
