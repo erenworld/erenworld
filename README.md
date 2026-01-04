@@ -4,7 +4,3 @@
   <a href="https://www.linkedin.com/in/erenturkoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sponsors/erenworld" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-* [GitHub Sponsors](https://github.com/sponsors/erenworld)
-* Bitcoin: `bc1qlyas8vcu622th3dq7xcsuvsvr4dc7w04suf4fx`
-* Ethereum: `0x989Acb1242d995ABec1C4b52B2E525d61EDCE7a2`
