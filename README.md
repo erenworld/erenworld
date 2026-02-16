@@ -23,13 +23,13 @@ You can sponsor my work via:
 - Bitcoin: `bc1qlyas8vcu622th3dq7xcsuvsvr4dc7w04suf4fx`
 - Ethereum: `0x989Acb1242d995ABec1C4b52B2E525d61EDCE7a2`
 
-## Some repositories I maintain
+#### Some repositories I maintain
 
 - [Awesome Database – A curated list of database performance stories](https://github.com/erenworld/awesome-database)
 - [Toy Database – A SQLite reimplementation in C](https://github.com/erenworld/toy-database)
 - [Karp – An interpreter built from scratch in Go](https://github.com/erenworld/interpreter)
 
-## Check out my recent pull requests
+#### Check out my recent pull requests
 
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5307) – Fix NOT NULL constraint error message during UPSERT (`INSERT ... ON CONFLICT DO UPDATE`)
 - [TimescaleDB Extras](https://github.com/timescale/timescaledb-extras/pull/82) – Resolved broken documentation links to improve developer onboarding
