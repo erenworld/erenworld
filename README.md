@@ -17,7 +17,7 @@ Commits and tags are signed with my SSH key fingerprint: `sS4V0G6hZMY4wzPIppaC8w
 
 I try to stay responsive to issues, pull requests, and comments. However, I receive hundreds of notifications per week, so if I’ve missed something, feel free to tag me in a comment.
 
-You can sponsor my work via:
+#### You can sponsor my work via:
 
 - [GitHub Sponsors](https://github.com/sponsors/erenworld)
 - Bitcoin: `bc1qlyas8vcu622th3dq7xcsuvsvr4dc7w04suf4fx`
