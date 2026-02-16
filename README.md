@@ -8,6 +8,7 @@
 ### Hi there
 
 I'm a database engineer focused on making queries faster. Like my work? [Consider hiring me.](https://erenkad.com/)
+Right now, I’m learning everything I can about SQLite and contributing to [TursoDB](https://github.com/tursodatabase/turso/), the next-generation SQLite built in Rust.
 
 Previously, I was the first software engineer at [Kolizeo](https://kolizeo.vercel.app/sluc), where I helped build and ship a Linktree-style platform used by thousands of users.
 
