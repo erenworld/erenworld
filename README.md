@@ -13,10 +13,7 @@ Previously, I was the first software engineer at [Kolizeo](https://kolizeo.verce
 
 You can find my website [here](https://erenkad.com), and I share my work on [X](https://x.com/erentrkg).
 
-Commits and tags are signed with my SSH key fingerprint:  
-`sS4V0G6hZMY4wzPIppaC8wXgGxtqZdzxJYrbSMOfEWE`
-
-NPM packages are published under [`erenturkoglu`](https://www.npmjs.com/~erenturkoglu).
+Commits and tags are signed with my SSH key fingerprint: `sS4V0G6hZMY4wzPIppaC8wXgGxtqZdzxJYrbSMOfEWE`. NPM packages are published under [`erenturkoglu`](https://www.npmjs.com/~erenturkoglu).
 
 I try to stay responsive to issues, pull requests, and comments. However, I receive hundreds of notifications per week, so if I’ve missed something, feel free to tag me in a comment.
 
@@ -32,7 +29,7 @@ You can sponsor my work via:
 - [Toy Database – A SQLite reimplementation in C](https://github.com/erenworld/toy-database)
 - [Karp – An interpreter built from scratch in Go](https://github.com/erenworld/interpreter)
 
-## Recent open source pull requests
+## Check out my recent pull requests
 
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5307) – Fix NOT NULL constraint error message during UPSERT (`INSERT ... ON CONFLICT DO UPDATE`)
 - [TimescaleDB Extras](https://github.com/timescale/timescaledb-extras/pull/82) – Resolved broken documentation links to improve developer onboarding
