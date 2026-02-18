@@ -16,7 +16,7 @@ You can find my website [here](https://erenkad.com), and I share my work on [X](
 
 Commits and tags are signed with my SSH key fingerprint: `sS4V0G6hZMY4wzPIppaC8wXgGxtqZdzxJYrbSMOfEWE`. NPM packages are published under [`erenturkoglu`](https://www.npmjs.com/~erenturkoglu).
 
-I try to stay responsive to issues, pull requests, and comments. However, I receive hundreds of notifications per week, so if I’ve missed something, feel free to tag me in a comment.
+I try to stay responsive to issues, pull requests, and comments. If I’ve missed something, feel free to tag me in a comment.
 
 #### You can sponsor my work via:
 
