@@ -18,12 +18,6 @@ Commits and tags are signed with my SSH key fingerprint: `sS4V0G6hZMY4wzPIppaC8w
 
 I try to stay responsive to issues, pull requests, and comments. If I’ve missed something, feel free to tag me in a comment.
 
-#### You can sponsor my work via:
-
-- [GitHub Sponsors](https://github.com/sponsors/erenworld)
-- Bitcoin: `bc1qlyas8vcu622th3dq7xcsuvsvr4dc7w04suf4fx`
-- Ethereum: `0x989Acb1242d995ABec1C4b52B2E525d61EDCE7a2`
-
 #### Some repositories I maintain
 
 - [Awesome Database – A curated list of database performance stories](https://github.com/erenworld/awesome-database)
