@@ -4,7 +4,7 @@
   <img src="linux-directory.gif" />
 </div>
 
-### Hi there
+### Hi, I'm Eren
 
 I'm a database enthusiast focused on making queries faster. Like my work? [Consider hiring me.](https://erenkad.com/)
 Right now, I’m learning everything I can about SQLite and contributing to [TursoDB](https://github.com/tursodatabase/turso/), the next-generation SQLite built in Rust.
