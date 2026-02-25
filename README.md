@@ -1,9 +1,3 @@
-<div align="left">
-  <img src="anybrowser2.gif" />
-  <img src="gethtmlnow.gif" />
-  <img src="linux-directory.gif" />
-</div>
-
 ### Hi, I'm Eren
 
 I'm a database enthusiast focused on making queries faster. Right now, I’m learning everything I can about SQLite and contributing to [TursoDB](https://github.com/tursodatabase/turso/), the next-generation SQLite built in Rust.
