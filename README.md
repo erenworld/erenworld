@@ -18,6 +18,7 @@ I try to stay responsive to issues, pull requests, and comments. If I’ve misse
 
 #### Check out my recent pull requests
 
+- [TursoDB](https://github.com/tursodatabase/turso/pull/5667) – Rename experimental_mvcc to mvcc
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5307) – Fix NOT NULL constraint error message during UPSERT (`INSERT ... ON CONFLICT DO UPDATE`)
 - [TimescaleDB Extras](https://github.com/timescale/timescaledb-extras/pull/82) – Resolved broken documentation links to improve developer onboarding
 - [Openbento](https://github.com/yoanbernabeu/openbento/pull/12) – Implemented Spotify integration in the open-source version of Bento
