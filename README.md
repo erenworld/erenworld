@@ -6,8 +6,6 @@ Previously, I was the first software engineer at [Kolizeo](https://kolizeo.verce
 
 You can find my website [here](https://erenkad.com), and I share my work on [X](https://x.com/erentrkg).
 
-Commits and tags are signed with my SSH key fingerprint: `sS4V0G6hZMY4wzPIppaC8wXgGxtqZdzxJYrbSMOfEWE`. NPM packages are published under [`erenturkoglu`](https://www.npmjs.com/~erenturkoglu).
-
 I try to stay responsive to issues, pull requests, and comments. If I’ve missed something, feel free to tag me in a comment.
 
 #### Some repositories I maintain
