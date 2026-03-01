@@ -2,7 +2,7 @@
 
 I'm a database enthusiast focused on making queries faster. Right now, I’m learning everything I can about SQLite and contributing to [TursoDB](https://github.com/tursodatabase/turso/), the next-generation SQLite built in Rust.
 
-Previously, I was the first software engineer at [Kolizeo](https://kolizeo.vercel.app/sluc), where I helped build and ship a Linktree-style platform used by thousands of users.
+Previously, I was the first software engineer at [Kolizeo](https://kolizeo.fr/sluc), where I helped build and ship a Linktree-style platform used by thousands of users.
 
 You can find my website [here](https://erenkad.com), and I share my work on [X](https://x.com/erentrkg).
 
