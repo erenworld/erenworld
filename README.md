@@ -8,12 +8,6 @@ You can find my website [here](https://erenkad.com), and I share my work on [X](
 
 I try to stay responsive to issues, pull requests, and comments. If I’ve missed something, feel free to tag me in a comment.
 
-#### Some repositories I maintain
-
-- [Awesome Database – A curated list of database performance stories](https://github.com/erenworld/awesome-database)
-- [Toy Database – A SQLite reimplementation in C](https://github.com/erenworld/toy-database)
-- [Karp – An interpreter built from scratch in Go](https://github.com/erenworld/interpreter)
-
 #### Check out my recent pull requests
 
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5667) – Rename experimental_mvcc to mvcc
