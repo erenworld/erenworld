@@ -4,8 +4,6 @@ I'm a database enthusiast focused on making queries faster. Right now, I’m lea
 
 Previously, I was the first software engineer at [Kolizeo](https://kolizeo.fr/sluc), where I helped build and ship a Linktree-style platform used by thousands of users.
 
-You can find my website [here](https://erenkad.com), and I share my work on [X](https://x.com/erentrkg).
-
 I try to stay responsive to issues, pull requests, and comments. If I’ve missed something, feel free to tag me in a comment.
 
 #### Check out my recent pull requests
