@@ -8,6 +8,7 @@ I try to stay responsive to issues, pull requests, and comments. If I’ve misse
 
 #### Check out my recent pull requests
 
+- [TursoDB Docs](https://github.com/tursodatabase/turso-docs/pull/365) - Update docs now that mvcc is fully supported
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5731) - Correct case-insensitive behaviour for tables and views to align with SQLite 
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5667) - Promote experimental_mvcc to mvcc, formalizing the MVCC journal mode
 - [TursoDB](https://github.com/tursodatabase/turso/pull/5307) - Fix incorrect NOT NULL constraint error handling during UPSERT `(INSERT ... ON CONFLICT DO UPDATE)`
