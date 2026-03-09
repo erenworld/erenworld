@@ -20,7 +20,7 @@ current projects:
 <samp>
 recent pull requests:
 <br/>
-• <a href="https://github.com/tursodatabase/turso-docs/pull/365">tursoDB docs</a> - update docs now that MVCC is fully supported
+• <a href="https://github.com/tursodatabase/turso-docs/pull/365">tursoDB</a> - update docs now that MVCC is fully supported
 <br/>
 • <a href="https://github.com/tursodatabase/turso/pull/5731">tursoDB</a> - correct case-insensitive behaviour for tables and views to align with SQLite
 <br/>
