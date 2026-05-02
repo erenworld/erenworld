@@ -32,3 +32,16 @@ recent pull requests:
 <br/>
 • <a href="https://github.com/yoanbernabeu/openbento/pull/12">openbento</a> - implement Spotify integration
 </samp>
+
+```
+                           .-----.
+                          ( Hello )
+                          /`-----'
+       _.---._    /\\    /
+    ./'       "--`\//   /
+  ./              o \  /
+ /./\  )______   \__ \
+./  / /\ \   | \ \  \ \
+   /_/  \_\  |_|\_\  \7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
