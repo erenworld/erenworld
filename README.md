@@ -4,6 +4,7 @@
 I'm a database enthusiast focused on making queries faster. Right now, I’m learning everything I can about SQLite and contributing to
 <a href="https://github.com/tursodatabase/turso/">TursoDB</a>, the next-generation SQLite built in Rust.
 <br/>
+
 <br/>
 <samp>
 recent pull requests:
@@ -23,6 +24,7 @@ recent pull requests:
 
 <br/>
 
+<br/>
 
 ```
                            .-----.
