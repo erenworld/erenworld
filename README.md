@@ -2,3 +2,4 @@
 &nbsp;&nbsp;
 [![linkedin](https://raw.githubusercontent.com/erenworld/erenworld/master/linkedin.svg)](https://linkedin.com/in/erenturkoglu/)
 &nbsp;&nbsp;
+[![database](https://raw.githubusercontent.com/erenworld/erenworld/master/podcast.svg)](https://databasestory.com/)
