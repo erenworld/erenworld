@@ -3,3 +3,12 @@
 [![linkedin](https://raw.githubusercontent.com/erenworld/erenworld/master/linkedin.svg)](https://linkedin.com/in/erenturkoglu/)
 &nbsp;&nbsp;
 [![database](https://raw.githubusercontent.com/erenworld/erenworld/master/medium.svg)](https://databasestory.com/)
+
+```
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+```
