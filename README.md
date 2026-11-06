@@ -2,6 +2,7 @@
 
 - I'm [Eren](https://erenkad.com)
 - I host [Databasestory](https://databasestory.com)
+- Intern at [Radome](https://radome.io)
 
 ## find me on
 - My Website: [erenkad.com](https://erenkad.com)
