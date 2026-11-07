@@ -7,5 +7,5 @@
 ## find me on
 - My Website: [erenkad.com](https://erenkad.com)
 - 🦩 Twitter: [@erentrkg](https://twitter.com/erentrkg)
-- 🌱 LinkedIn: [Eren Türkoglu](https://www.linkedin.com/in/erenturkoglu/)
+- 🌱 LinkedIn: [Eren Türkoğlu](https://www.linkedin.com/in/erenturkoglu/)
 - 📬 Email: [erenxturkoglu@gmail.com](mailto:erenxturkoglu@gmail.com)
