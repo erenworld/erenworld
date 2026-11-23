@@ -3,6 +3,7 @@
 - I'm [Eren](https://erenkad.com)
 - I host [Databasestory](https://databasestory.com)
 - Intern at [Radome](https://radome.io)
+- My best article [How to get hired](https://erenkad.com/blog/get-hired)
 
 ## find me on
 - My Website: [erenkad.com](https://erenkad.com)
